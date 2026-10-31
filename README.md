@@ -2,14 +2,9 @@
 
 A responsive BSc IT student dashboard built with React + Vite.
 
-## Run it on Replit
-1. Create a new **React / Vite** project on Replit, or import this ZIP.
-2. Open the Shell / Console.
-3. Run `npm install`
-4. Run `npm run dev`
-5. Open the web preview.
-
 ## Features
+## Features
+
 - Responsive student dashboard and mobile navigation
 - Dark / light theme toggle
 - Course cards with progress indicators
@@ -18,9 +13,13 @@ A responsive BSc IT student dashboard built with React + Vite.
 - Focus/streak UI and toast notifications
 - React components and Lucide icons
 
-## Tech
+## Tech Stack
 - React 18
 - Vite 6
+- Supabase
 - lucide-react
 
-Note: This is a front-end college project prototype. Task data is stored in React state and resets when the page reloads; there is no backend/database yet.
+## Run Locally
+1. Run `npm install`
+2. Run `npm run dev`
+3. Open the local URL shown in the terminal.
